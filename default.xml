@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@github.com/dory/"/>
+    <remote name="m4grio" fetch="ssh://git@github.com/m4grio/"/>
+    <default revision="refs/heads/master" remote="origin"/>
+
+    <project name="dory" remote="m4grio"/>
+    <project name="jekyll"/>
+</manifest>
