@@ -6,4 +6,5 @@
 
     <project name="dory" remote="m4grio"/>
     <project name="jekyll"/>
+    <project name="vibora"/>
 </manifest>
